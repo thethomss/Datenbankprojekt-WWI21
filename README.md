@@ -27,6 +27,7 @@ Auf die MongoDB kann bei Bedarf direkt über die CLI mit folgendem Befehl zugegr
     cd /backend
     npm install
     cd backend/api
+    npm install
     node api.js
 
 **3. Client Zugriff:**
